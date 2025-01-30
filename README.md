@@ -5,7 +5,7 @@
 Olá, me chamo Miguel, tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio de Sá. Sou apaixonado por tecnologia e estou sempre buscando mais conhecimento, gosto tanto do front-end quanto do back-end, e estou sempre apto para novos desafios.
 
 <p align="left">
-    <a href="www.youtube.com/@Miguellivess">
+    <a href="https://www.youtube.com/@Miguellivess">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
@@ -40,7 +40,7 @@ Olá, me chamo Miguel, tenho 20 anos e sou natural do Rio de Janeiro. Atualmente
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
         />
     </a>
-  <a href="www.linkedin.com/in/miguel-cordeiro-77a8a8265">
+  <a href="https://www.linkedin.com/in/miguel-cordeiro-77a8a8265/">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
