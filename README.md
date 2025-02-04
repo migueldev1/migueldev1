@@ -4,7 +4,10 @@
   </a>
 </div>
 
+
 **`DESENVOLVEDOR DE SOFTWARE`**
+
+
 
 Olá, me chamo Miguel, tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio de Sá. Sou apaixonado por tecnologia e estou sempre buscando mais conhecimento, gosto tanto do front-end quanto do back-end, e estou sempre apto para novos desafios.
 
@@ -143,6 +146,8 @@ Olá, me chamo Miguel, tenho 20 anos e sou natural do Rio de Janeiro. Atualmente
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -162,6 +167,7 @@ Olá, me chamo Miguel, tenho 20 anos e sou natural do Rio de Janeiro. Atualmente
       height="190" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueldev1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 
   <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/migueldev1/migueldev1/output/github-contribution-grid-snake-dark.svg">
