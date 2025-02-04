@@ -55,11 +55,11 @@ Olá, me chamo Miguel, tenho 20 anos e sou natural do Rio de Janeiro. Atualmente
 
 ---
 <img
-    align="right" 
+    align="right"
     alt="Satoru Gojo" 
     title="Satoru Gojo"
     height="150px"
-    width="200px" 
+    width="180px"
     style="padding-right: 10px;" 
     src="https://i.pinimg.com/originals/70/5e/d1/705ed1090f270ed99c90b2d312bd34bd.jpg" 
 />
@@ -159,7 +159,7 @@ Olá, me chamo Miguel, tenho 20 anos e sou natural do Rio de Janeiro. Atualmente
       align="left"
       width="39%"
       alt="GitHub Stats" 
-      height="180" 
+      height="190" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueldev1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
