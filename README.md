@@ -17,7 +17,7 @@ Olá, me chamo Miguel, tenho 20 anos e sou natural do Rio de Janeiro. Atualmente
             src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"
         />
     </a>
-    <a href="https://www.instagram.com/mgofcx/">
+    <a href="https://www.instagram.com/miguelll.dev/">
         <img 
             alt="instagram" 
             title="Me segue no Instagram" 
