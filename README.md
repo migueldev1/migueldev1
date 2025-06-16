@@ -45,7 +45,7 @@ Olá, me chamo Miguel, tenho 20 anos e sou natural do Rio de Janeiro. Atualmente
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
         />
     </a>
-  <a href="https://www.linkedin.com/in/miguel-cordeiro-77a8a8265/">
+  <a href="https://www.linkedin.com/in/miguelcordeirodev">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
