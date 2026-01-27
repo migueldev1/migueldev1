@@ -7,7 +7,7 @@
 
 
 
-Olá, me chamo Miguel, tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio de Sá. Sou apaixonado por tecnologia e estou sempre buscando mais conhecimento, gosto tanto do front-end quanto do back-end, e estou sempre apto para novos desafios.
+Olá, me chamo Miguel, tenho 20 anos e sou natural do Rio de Janeiro. Sou formado em Análise e Desenvolvimento de Sistemas na Estácio de Sá. Sou apaixonado por tecnologia e estou sempre buscando mais conhecimento, gosto tanto do front-end quanto do back-end, e estou sempre apto para novos desafios.
 
 <p align="left">
     <a href="https://www.youtube.com/@Miguellivess">
