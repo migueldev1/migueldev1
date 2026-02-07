@@ -38,7 +38,7 @@ Olá, me chamo Miguel, tenho 21 anos e sou natural do Rio de Janeiro. Sou formad
             src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"
         />
     </a>
-  <a href="mailto:miguelcordeirozzz@gmail.com">
+  <a href="mailto:miguel.cordeiro.ti@gmail.com">
         <img 
             alt="Gmail" 
             title="Meu Gmail" 
